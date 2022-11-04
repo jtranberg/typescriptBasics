@@ -1,5 +1,5 @@
 const movies = ["arrival", "amadeus", "clockwork Orange"]
-let foundMovie ;
+let foundMovie : string;
 for(let movie of movies) {
  if(movie === "amadeus") {
     foundMovie = "amadeus";
