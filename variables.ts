@@ -11,3 +11,7 @@ x = "true";    //  type inferance by typescript
 let tvShow = "starTrek";
 tvShow = 9;    // infer string
 
+const thing: any ="stuff";    //try not use except in pre build or wire frame
+
+
+
